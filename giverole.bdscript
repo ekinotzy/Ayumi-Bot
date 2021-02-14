@@ -1,0 +1,12 @@
+$nomention
+$deletecommand
+$giveRole[$mentioned[1];$mentionedRoles[1]]
+$argsCheck[>1;**Você deve mencionar algum usuário !**]
+$onlyPerms[manageroles;<:AlertIcon:786255173180981288> **Você não possui permissão para isso !**]
+$onlyBotPerms[manageroles;Eu não possuo a permissão "Manage Roles" para executar esta ação]
+$color[9e4adf]
+$title[<:PurpleVerified:786255745330577408>   **Cargo Adicionado com Sucesso !**]
+$description[<:Role:786253361883381830>   $username adicionou um cargo com sucesso em <@$mentioned[1]>]
+$footer[$username]
+$footerIcon[$authorAvatar]
+$addTimestamp
