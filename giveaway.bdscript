@@ -1,0 +1,13 @@
+$nomention
+$allowMention
+$title[🎉  **Giveaway !**  🎉]
+$color[9e4adf]
+$description[<:AnnouncementChannel:786253509049712651> $noMentionMessage]
+$footer[Giveaway por : $username]
+$footerIcon[$authorAvatar]
+$addTimestamp
+$argsCheck[>2;<a:Denied:786677981568958534>** | Comando Errado ! Tente escrever :** `ayu!giveaway #(canal) "mensagem"`]
+$onlyAdmin[**Desculpe, somente Admins podem usar esse comando !**]
+$addReactions[🎉]
+$useChannel[$mentionedChannels[>;yes]]
+$deletecommand
