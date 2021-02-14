@@ -1,0 +1,30 @@
+$nomention
+$title[<:NewsChannel:786253403893268490>   **Informações do Servidor**]
+$serverInfo[
+<:Channel:786251895735320686>   **Nome do Servidor :** *{name}*
+
+<a:EarthBlue:786426583397040158>   **Região :** {region}
+
+<:DiscordStaff:786252398690566174>   **ID do Servidor :** `$guildID`
+
+<:CrownIcon:786253632546406431>   **Criador do Servidor :** {owner}
+
+<:PurpleVerified:786255745330577408>   **Verificação :** {verificationLvl}
+
+<a:Interrogation:786253753144836117>   **Emojis :** {emoji}
+
+<:Role:786253361883381830>   **Quantidade de Cargos :** $roleCount
+
+<:Role:786253361883381830>   **Cargos :** $roleNames
+
+<:Role:786253361883381830>   **Membros :** $membersCount
+
+<:OnlineOxzy:786424887257333761>   **Disponível :** $membersCount[online]
+<:IdleOxzy:786424937170075690>   **Ausente :** $membersCount[dnd]
+<:DNDOxzy:786424923198455888>   **Não Pertubar :** $membersCount[idle]
+<:OfflineOxzy:786424907168088085>   **Offline :** $membersCount[offline]
+<:OfflineOxzy:786424907168088085>   **Invisível :** $membersCount[invisible]]
+$footer[$username]
+$footerIcon[$authorAvatar]
+$color[9e4adf]
+$addTimestamp
