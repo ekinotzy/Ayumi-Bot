@@ -1,0 +1,16 @@
+$nomention
+$color[9e4adf]
+$title[<a:Interrogation:786253753144836117>  **Sobre Mim :**]
+$description[
+<:NewsChannel:786253403893268490>   **Funções :** Bot multifuncional, com diversas funções de informações de servidores e usuários, comandos para diversão como de beijo, abraço e tapa, etc.
+
+<:DiscordStaff:786252398690566174>    **Quantidade de Comandos :** $commandsCount
+
+<:DeveloperBadge:786249445574443048>   **Criador do Bot :** KNT#4635
+
+<a:EarthBlue:786426583397040158>  **Quantos servidores estou :** $serverCount
+
+<:Channel:786251895735320686>  **Linguagem que fui programado :** BDScript]
+$footer[$username]
+$footerIcon[$authorAvatar]
+$addTimestamp
