@@ -1,0 +1,7 @@
+$nomention
+$color[9e4adf]
+$title[<:NewsChannel:786253403893268490>   **Ping**]
+$description[<:PurpleVerified:786255745330577408>   Seu ping é de ***$ping ms***]
+$footer[$username]
+$footerIcon[$authorAvatar]
+$addTimestamp
