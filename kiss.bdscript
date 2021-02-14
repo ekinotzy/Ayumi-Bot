@@ -1,0 +1,9 @@
+$nomention
+$color[9e4adf]
+$argsCheck[>1;<a:Denied:786677981568958534> | **Você precisa mencionar o usuário que deseja beijar !**]
+$description[♥️ <@$authorID> **beijou** <@$mentioned[<]> ♥️]
+$image[$randomText[https://i.pinimg.com/originals/23/ae/6e/23ae6e887378484ef206325ee03d05e4.gif;https://i.pinimg.com/originals/04/7e/1b/047e1bef01702b9252ef3a528a2401ad.gif;https://i.pinimg.com/originals/01/6c/84/016c842cd25ae79f516c7d1dc98c9c7e.gif;https://i.pinimg.com/originals/e3/4e/31/e34e31123f8f35d5c771a2d6a70bef52.gif;https://i.pinimg.com/originals/2b/52/71/2b5271e20fa65925e07d0338fa290135.gif;https://i.pinimg.com/originals/fe/05/b2/fe05b2029b430312deb33c3d98acda65.gif;https://i.pinimg.com/originals/68/a3/7a/68a37a5a1b86f227b8e1169f33a6a6bb.gif;https://i.pinimg.com/originals/01/55/83/015583a2ed72819ce6201989ad46079b.gif;https://i.gifer.com/8Sbz.gif;https://cdn.myanimelist.net/s/common/uploaded_files/1483588499-c936779a4753c142eef7e4240c1a0deb.gif;https://cdn.myanimelist.net/s/common/uploaded_files/1483590013-b9d0df015159909c2fc2afe38651250f.gif;https://i.pinimg.com/originals/29/65/3a/29653ad6e372605c4c43c3c015f9e499.gif;https://i.pinimg.com/originals/cd/e8/2d/cde82deb56bbb78eabf6317011bb922d.gif;https://i.pinimg.com/originals/ce/ae/c0/ceaec0e3cb6611653e6ffa455068f2bd.gif;https://i.pinimg.com/originals/ab/99/e0/ab99e0459f9f70f87f409cdff4f936d2.gif;]]
+$addReactions[♥️]
+$footer[$username deu um beijo !]
+$footerIcon[$authorAvatar]
+$addTimestamp
