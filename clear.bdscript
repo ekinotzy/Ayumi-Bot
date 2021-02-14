@@ -1,0 +1,9 @@
+$nomention
+$clear[$message]
+$deletecommand
+$title[<:BlueHint:786253297068539994>   **Clear !**]
+$color[9e4adf]
+$description[<:PurpleVerified:786255745330577408>   $username limpou o chat usando **"!clear"**.]
+$footer[$username]
+$footerIcon[$authorAvatar]
+$addTimestamp
