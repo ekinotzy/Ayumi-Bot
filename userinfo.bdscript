@@ -1,0 +1,17 @@
+$color[9e4adf]
+$argsCheck[>1;<a:Denied:786677981568958534> | **Você precisa mencionar o usuário que deseja ver as informações !**]
+$title[**Informações do Usuário :**]
+$userInfo[
+<:Role:786253361883381830>   **Nome de usuário :** {username}
+
+<:PurpleVerified:786255745330577408>   **Usuário Verificado :** {verified}
+
+<:DiscordStaff:786252398690566174>   **ID do Usuário :** {ID}
+
+<:Channel:786251895735320686>   **Discord Tag :** {discriminator}
+
+<:NewsChannel:786253403893268490>   **Data de Criação :** $creationDate[$mentioned[1]]
+]
+$footer[$username]
+$footerIcon[$authorAvatar]
+$addTimestamp
